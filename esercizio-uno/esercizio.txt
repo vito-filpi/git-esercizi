@@ -1,0 +1,6 @@
+aprire git hub
+creare una repository in pubblic
+aprire una cartella su desktop
+aprire la cartella su visual studio
+aprire una sotto cartella nome.txt
+aprire terminale con estensione gitlanciare il config
